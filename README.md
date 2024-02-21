@@ -1,5 +1,6 @@
 # Python Data Structures and Algorithms
 **This is my data structure and algorithms porfolio with Python**
+
 The aim of this potfolio is to study and organize knowledge about data structure and algorithms with python mainly in preparation of technical interview.
 I'm certain that the continuous accumulation of knowledge sets will pay off. 
 
