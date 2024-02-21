@@ -2,8 +2,7 @@
 
 # Definition of array
 **An array is a collection of items of same data type stored at contiguous memory locations.**
-![image](/data_structures/array
-/array.png)
+![image](/data_structures/array/array.png)
 
 # Basic terminology
 * **Array Index**: In an array, elements are identified by their indexes. Array index starts from 0.
