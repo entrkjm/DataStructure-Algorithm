@@ -60,6 +60,10 @@ Feel free to raise new issues, file new PRs. Consider giving it a star and fork 
 
 To follow the guidelines, refer to [Contributing.md](CONTRIBUTING.md)
 
+## Unsorted problem lists(to review)
+141. Linked List Cycle
+112. Path Sum
+
 ## License
 
 [MIT License](LICENSE)
